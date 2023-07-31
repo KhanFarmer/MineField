@@ -1,0 +1,13 @@
+C:\Users\ailev\source\repos\MineField\MineField\bin\Debug\MineField.exe.config
+C:\Users\ailev\source\repos\MineField\MineField\bin\Debug\MineField.exe
+C:\Users\ailev\source\repos\MineField\MineField\bin\Debug\MineField.pdb
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.csproj.AssemblyReference.cache
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.csproj.SuggestedBindingRedirects.cache
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.Form1.resources
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.Properties.Resources.resources
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.csproj.GenerateResource.cache
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.csproj.CoreCompileInputs.cache
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.exe
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.pdb
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.Form2.resources
+C:\Users\ailev\source\repos\MineField\MineField\obj\Debug\MineField.GameBoard.resources
